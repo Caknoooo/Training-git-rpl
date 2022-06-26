@@ -2,3 +2,4 @@
 - Menyelenggarakan Kegiatan RPL
 - Menyelesaikan tugas kuliah
 - Belajar Git gan
+- Belajar GitHub gan
