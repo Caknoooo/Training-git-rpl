@@ -1,4 +1,3 @@
 #Rencana Belajar Github
 - Programming Language
 - Mengenal lebih lanjut seputar github
-- Belajar Matematika
